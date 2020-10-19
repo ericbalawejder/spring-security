@@ -4,6 +4,11 @@
   <title>Spring Security Demo</title>
 </head>
 <body>
-<p>Spring Security Demo</p>
+<h2>Spring Security Demo</h2>
+
+Welcome to the Spring Security Demo Homepage
+
 </body>
 </html>
+
+<html>
