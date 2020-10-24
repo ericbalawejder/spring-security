@@ -40,6 +40,7 @@ dependencies {
     // Spring security
     compile group: 'org.springframework.security', name: 'spring-security-web', version: springSecurity
     compile group: 'org.springframework.security', name: 'spring-security-config', version: springSecurity
+    compile group: 'org.springframework.security', name: 'spring-security-taglibs', version: springSecurity
 
     // Hibernate 5
     compile group: 'org.hibernate', name: 'hibernate-core', version: hibernateVersion
