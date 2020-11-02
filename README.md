@@ -3,7 +3,7 @@
 This app implements the basic features of Spring Security user roles.
 To create the database, use the sql file located in `/src/main/resources/sql`
 
-####To run:
+#### To run:
 You can configure Tomcat to run in IntelliJ, Eclipse or on the command line as shown below.
 ```
 $ gradle clean build
