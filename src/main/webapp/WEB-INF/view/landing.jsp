@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>luv2code Landing Page</title>
+    <title>Landing Page</title>
 </head>
 
 <body>
