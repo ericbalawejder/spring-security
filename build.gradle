@@ -10,7 +10,8 @@ project.ext {
     junitVersion = '5.7.0'
     springVersion = '5.2.9.RELEASE'
     springSecurity = '5.4.1'
-    hibernateVersion = '5.4.22.Final'
+    hibernateVersion = '5.4.23.Final'
+    hibernateValidator = '6.1.6.Final'
     mysqlVersion = '8.0.22'
     mockitoVersion = '3.5.13'
     aspectjVersion = "1.9.6"
@@ -44,6 +45,7 @@ dependencies {
 
     // Hibernate 5
     compile group: 'org.hibernate', name: 'hibernate-core', version: hibernateVersion
+    compile group: 'org.hibernate', name: 'hibernate-validator', version: hibernateValidator
 
     // Hibernate c3po
     compile group: 'com.mchange', name: 'c3p0', version: '0.9.5.5'
