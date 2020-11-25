@@ -1,4 +1,4 @@
-# spring-security
+# Spring Security
 
 This app implements the basic features of Spring Security user roles. Passwords
 are stored in the database using Bcrypt hashing. To create the database, use the sql
@@ -23,11 +23,11 @@ visit:
 
 http://localhost:8080/spring-security-0.0.1-SNAPSHOT/
 
-Home page.
+#### Home page.
 ![home](images/home.png)
 
-Login page
+#### Login page
 ![login](images/login.png)
 
-Create user page.
+#### Create user page.
 ![create user](images/create-user.png)
